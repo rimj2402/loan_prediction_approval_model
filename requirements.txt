@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib 
+seaborn
+scikit-learn
+dill
+flask
+-e .  # install it onces then comment out, Once needed to connect it with setup.py file
